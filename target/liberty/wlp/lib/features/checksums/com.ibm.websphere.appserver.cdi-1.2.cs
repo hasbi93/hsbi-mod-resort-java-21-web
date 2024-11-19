@@ -1,0 +1,19 @@
+#Tue Nov 19 17:05:38 WIB 2024
+dev/api/ibm/schema/ibm-managed-bean-bnd_1_0.xsd=000e5fb4e1f752ab98e76f3e43920b63
+dev/api/ibm/schema/ibm-managed-bean-bnd_1_1.xsd=9a494dab3af1ccd4f13f22cca4bd969c
+dev/api/spec/com.ibm.websphere.javaee.jaxb.2.2_1.0.95.jar=7acbb6db48d318d45b079bbc2e9b9ffc
+dev/api/spec/com.ibm.websphere.javaee.jaxws.2.2_1.0.95.jar=c3694966b0eb5b48afb60bdd793a21c9
+dev/api/spec/com.ibm.websphere.javaee.jstl.1.2_1.0.95.jar=30e336bf86dc5e960d0d6e32857771d5
+dev/api/third-party/com.ibm.websphere.appserver.thirdparty.cdi_1.0.95.jar=09650851eb3a95834e72cb42b774befc
+dev/spi/ibm/com.ibm.websphere.appserver.spi.cdi_1.1.95.jar=d415de9c82b469972fa7e3fdefcb38fe
+dev/spi/ibm/javadoc/com.ibm.websphere.appserver.spi.cdi_1.1-javadoc.zip=4aac079e3c7cfb6438bab195404122e0
+lib/com.ibm.ws.cdi.1.2.weld_1.0.95.jar=17baf375b026eb0b1748c32d08d3c033
+lib/com.ibm.ws.cdi.interfaces_1.0.95.jar=d16d7cdc4703360419ee931b901566e7
+lib/com.ibm.ws.cdi.internal_1.0.95.jar=410e8d1a6c361e8ae16780b248cd367d
+lib/com.ibm.ws.cdi.weld_1.0.95.jar=87616b05f02d55e3e93c1731187b3f01
+lib/com.ibm.ws.managedobject_1.0.95.jar=6f60faeac97f8ab93ffb6ce671b87689
+lib/com.ibm.ws.org.jboss.classfilewriter_1.2.95.jar=a1c4fe6d83d5afb13abd0a945bec7129
+lib/com.ibm.ws.org.jboss.jdeparser.1.0.0_1.0.95.jar=af907f58aa41033dddfadc812f9db67f
+lib/com.ibm.ws.org.jboss.logging_1.0.95.jar=46ec7b3ea7b8bb890efd248fcaf9a81f
+lib/com.ibm.ws.org.jboss.weld_1.0.95.jar=11c1ff77189603977ee6afcfa92fac3c
+lib/features/com.ibm.websphere.appserver.cdi-1.2.mf=47bba64c68b737450e5ecbaf7e531ab4
